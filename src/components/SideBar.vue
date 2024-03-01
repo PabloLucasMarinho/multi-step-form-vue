@@ -73,7 +73,7 @@ export default {
 
 @media (max-width: 940px) {
   .sidebar {
-    background-image: url("../src/assets/bg-sidebar-mobile.svg");
+    background-image: url("../assets/bg-sidebar-mobile.svg");
     position: fixed;
     top: 0;
     width: 375px;
