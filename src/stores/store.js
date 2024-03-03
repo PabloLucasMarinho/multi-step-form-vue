@@ -18,30 +18,6 @@ export const store = reactive({
   },
 });
 
-export const stepTwoOptions = reactive({
-  arcade: {
-    image: "icon-arcade.svg",
-    alt: "An icon of a very old video game controller",
-    title: "arcade",
-    price: 9,
-    isActive: false,
-  },
-  advanced: {
-    image: "icon-advanced.svg",
-    alt: "An icon of an old video game controller",
-    title: "advanced",
-    price: 12,
-    isActive: false,
-  },
-  pro: {
-    image: "icon-pro.svg",
-    alt: "An icon of a current video game controller",
-    title: "pro",
-    price: 15,
-    isActive: false,
-  },
-});
-
 export const SIDEBAR = reactive({
   stepOne: {
     id: "stepOne",

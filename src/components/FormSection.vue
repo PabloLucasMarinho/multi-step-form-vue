@@ -8,6 +8,7 @@ import Final from "./Final.vue";
 import { store } from "../stores/store";
 
 export default {
+  name: "FormSection",
   data() {
     return {
       store,
