@@ -51,6 +51,8 @@ p {
     padding: 4rem;
     width: 350px;
     border-radius: 0.5rem;
+    position: fixed;
+    top: 6.2rem;
   }
 }
 </style>

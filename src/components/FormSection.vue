@@ -148,11 +148,13 @@ export default {
 
   .buttons-section {
     position: fixed;
-    bottom: 0;
     width: 375px;
     background-color: #fff;
-    justify-self: center;
     padding: 1rem;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    margin-inline: auto;
   }
 }
 </style>
