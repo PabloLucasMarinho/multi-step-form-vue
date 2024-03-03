@@ -14,9 +14,6 @@ This is a solution to the [Multi-step form challenge on Frontend Mentor](https:/
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -47,8 +44,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://pablolucasmarinho.github.io/multi-step-form-vue/)
+- Solution URL: [My solution in Frontend Mentor](https://www.frontendmentor.io/solutions/multi-step-form-with-vuejs-2q-N7m7s1L)
+- Live Site URL: [GitHub Pages](https://pablolucasmarinho.github.io/multi-step-form-vue/)
 
 ## My process
 
